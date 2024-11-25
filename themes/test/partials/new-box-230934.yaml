@@ -1,0 +1,17 @@
+name: Jumbotron
+handle: new-box-230934
+section: Common
+form:
+  fields:
+    title:
+      label: Title
+      type: text
+    text:
+      label: Text
+      type: text
+    buttonlink:
+      label: Knap Link
+      type: text
+    buttontext:
+      label: Knap Text
+      type: text

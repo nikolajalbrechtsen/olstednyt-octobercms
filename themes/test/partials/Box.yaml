@@ -1,0 +1,8 @@
+name: New Box
+handle: new-box-230906
+section: Common
+form:
+  fields:
+    text:
+      label: Text
+      type: text

@@ -1,0 +1,15 @@
+items:
+    -
+        title: Test
+        nesting: null
+        type: all-static-pages
+        url: null
+        code: ''
+        reference: null
+        cmsPage: null
+        replace: 0
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+name: TestNav
